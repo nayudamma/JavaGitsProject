@@ -1,0 +1,22 @@
+git - local repository
+github -- remote repository
+
+github- we need account for github
+ once login create project and get url(nayudu_g@hotmail.com)
+https://github.com/nayudamma/JavaGitsProject.git
+
+download Git from
+https://git-scm.com/download/win
+install the git
+it will open git bash
+create a folder in local drive and set it as local repository(i created folder git_local_repository)
+
+to make this folder as local repository:
+intialize the repository : git init
+git remote add origin "https://github.com/nayudamma/JavaGitsProject.git"
+
+to pull files from remote to local
+
+git pull origin main
+
+ 
