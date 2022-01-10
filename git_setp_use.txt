@@ -19,4 +19,15 @@ to pull files from remote to local
 
 git pull origin main
 
- 
+to check un commited files in repository folder 
+git status -- it show un comited files in RED
+
+to add new file to local repository
+  first we add  file to index
+    git add filename
+ then commit to local repository
+   git commit -m "some comment"
+to add multiple files
+ git add -A
+
+
