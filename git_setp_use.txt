@@ -37,6 +37,7 @@ git log
 moving files to github
 first we have to pull files from github then intigrate and push
 git pull origin main
-git push origin 
+git push origin HEAD:main
+
 
 
